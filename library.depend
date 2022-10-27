@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666873958 source:c:\users\temp.vlo-30-06\desktop\library\library\calculations.cpp
+
+1666873851 source:c:\users\temp.vlo-30-06\desktop\library\library\main.cpp
+	<iostream>
+	"calculations.h"
+
+1666873974 c:\users\temp.vlo-30-06\desktop\library\library\calculations.h
+
